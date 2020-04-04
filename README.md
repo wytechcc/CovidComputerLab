@@ -1,4 +1,4 @@
-# CovidComputerLab
+# CovidComputerLab [![Build status](https://ci.appveyor.com/api/projects/status/2q3cktd5aq2fujyg?svg=true)](https://ci.appveyor.com/project/cwhitingwy/covidcomputerlab)
 automation scripts and instructions for lab administrators to run Folding@Home on their entire (empty) lab! #COVID19
 
 There are already so many existing Dockerfiles for running
