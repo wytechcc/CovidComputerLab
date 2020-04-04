@@ -32,7 +32,7 @@ currently there's a shortage of windows automation scripts.
 ## Extra Settings
 
 
-* For extra bonus points, make sure you setup a passkey that corresponds with your username. This authentication assures that other users cannot falsely report your contributions as their own.
+* For extra bonus points, make sure you setup a passkey that corresponds with your username. This authentication assures that other users cannot falsely report your contributions as their own. [Sign up here](https://apps.foldingathome.org/getpasskey)
 * The client supports numerous different diseases.  To make sure you’re computations are fighting COVID-19, configure your client settings as follows:
     * Webcontrol: “Any disease” in the list “I support research fighting”
     * Advanced Control/FAHControl: Configure > Advanced, select “Any” in the list “Cause Preference”
