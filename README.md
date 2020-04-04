@@ -8,7 +8,11 @@ While we will provide instructions for setting this up on as many platforms as p
 currently there's a shortage of windows automation scripts.
 
 ## External, Existing Projects
-* [stefancrain/folding-at-home](https://github.com/stefancrain/folding-at-home) - Docker-Compose
+* Docker-Compose
+  * [stefancrain/folding-at-home](https://github.com/stefancrain/folding-at-home)
+* Ansible (Linux hosts...)
+  * [jbertozzi.folding_at_home](https://galaxy.ansible.com/jbertozzi/folding_at_home)
+  * [peteroyle.folding_at_home](https://galaxy.ansible.com/peteroyle/folding_at_home)
 
 ## Automation
 > working on it...

@@ -5,6 +5,9 @@ Folding@Home to help fight COVID19. While they could be [done remotely](https://
 assuming here that you haven't already enabled PowerShell remoting and will be running
 scripts on each machine in the lab (we included remote scripts too, if you did).
 
+If your lab has PowerShell remoting enabled already, that can be a real timesaver.
+
+
 The steps are as follows:
 
 * Install Folding@Home
