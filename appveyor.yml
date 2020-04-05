@@ -10,6 +10,7 @@ only_commits:
     - CovidLabLocal.ps1
     - CovidLabRemote.ps1
     - config.xml
+    - appveyor.yml
 max_jobs: 1
 platform: Any CPU
 #  - x86

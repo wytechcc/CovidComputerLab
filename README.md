@@ -7,6 +7,21 @@ Folding@Home ([#foldingathome](https://github.com/topics/foldingathome),
 While we will provide instructions for setting this up on as many platforms as possible,
 currently there's a shortage of windows automation scripts.
 
+## Example Config.xml
+
+```xml
+<config>
+  <!-- User Information -->
+  <passkey v='yourpasskey(see below)'/>
+  <team v='257578'/>
+  <power v="full" />
+  <cpus v="2" />
+  <user v='yourusername'/>
+  <!-- Folding Slots -->
+  <slot id='0' type='CPU'/>
+</config>
+```
+
 ## External, Existing Projects
 * Docker-Compose
   * [stefancrain/folding-at-home](https://github.com/stefancrain/folding-at-home)
@@ -33,7 +48,7 @@ currently there's a shortage of windows automation scripts.
 
 
 * For extra bonus points, make sure you setup a passkey that corresponds with your username. This authentication assures that other users cannot falsely report your contributions as their own. [Sign up here](https://apps.foldingathome.org/getpasskey)
-* The client supports numerous different diseases.  To make sure you’re computations are fighting COVID-19, configure your client settings as follows:
+* The client supports numerous different diseases.  To make sure your computations are fighting COVID-19, configure your client settings as follows:
     * Webcontrol: “Any disease” in the list “I support research fighting”
     * Advanced Control/FAHControl: Configure > Advanced, select “Any” in the list “Cause Preference”
     * The COVID-19 related projects are on top priority and will be assigned automatically.
